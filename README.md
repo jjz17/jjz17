@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jasonjzhang17@gmail.com**
 
-- ⚡ Fun fact **I love to make genuine friendships**
+- ⚡ Fun fact **I love forging genuine friendships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
