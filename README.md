@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjz17" alt="jjz17" /></a> </p>
 
-- 🔭 I’m currently working on [Tennis Match Outcome Prediction Model](https://github.com/jjz17/Natural-Strength-Building)
+- 🔭 I’m currently working on [Natural-Strength](https://github.com/jjz17/Natural-Strength)
 
 - 🌱 I’m currently learning **Data collection and wrangling, Machine learning**
 
