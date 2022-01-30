@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Natural-Strength-Consolidated](https://github.com/jjz17/Natural-Strength-Consolidated)
 
-- 🌱 I’m currently learning **Data collection and wrangling, Machine learning**
+- 🌱 I’m currently learning **Data collection and wrangling, Data engineering, and Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jjz17](https://github.com/jjz17)
 
