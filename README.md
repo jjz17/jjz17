@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjz17" alt="jjz17" /></a> </p>
 
-- 🔭 I’m currently working on [twitter-dashboard](https://github.com/jjz17/twitter-dashboard) and [Geeda](https://github.com/jjz17/Geeda)
+- 🔭 I’m currently working on [twitter-dashboard](https://github.com/jjz17/twitter-dashboard) and [Geeda](https://github.com/jjz17/geeda)
 
 - 🌱 I’m currently learning **Data Engineering, Machine Learning, and Software Engineering**
 
